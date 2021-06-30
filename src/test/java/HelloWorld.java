@@ -6,6 +6,7 @@ public class HelloWorld {
         // enhancing hello
         // work 1
         System.out.println("Developing hello feature");
+        System.out.println("Doing more work");
 
     }
 
